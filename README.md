@@ -9,4 +9,5 @@ Then you take the square root of that number.
 Given the points (xOne, yOne) and (xTwo, yTwo) write a program that will find the distance between the two points.
 
 #Note: BOTH points (xOne, yOne) AND (xTwo, yTwo) MUST be randomly generated integers!!!! - MUST USE Math.random!!!!
+
 #Note: To find the distance you MUST use the Math Class - What Math method would you use to do this??? 
